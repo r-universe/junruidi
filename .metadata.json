@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ActCR",
+    "oncran": true
+  },
+  {
+    "package": "ActFrag",
+    "oncran": true
+  }
+]
