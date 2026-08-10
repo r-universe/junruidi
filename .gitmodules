@@ -5,6 +5,3 @@
 [submodule "ActCR"]
 	path = ActCR
 	url = https://github.com/junruidi/actcr
-[submodule "ActFrag"]
-	path = ActFrag
-	url = https://github.com/junruidi/actfrag
